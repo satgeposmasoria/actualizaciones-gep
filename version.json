@@ -1,0 +1,7 @@
+{
+  "version": "1.4.3",
+  "release_date": "2026-11-25",
+  "url": "https://drive.google.com/uc?export=download&id=PON_AQUI_EL_ID_DEL_INSTALADOR_1.4.3",
+  "installer_filename": "Instalador_Gestor_Economía_Parroquial_1.4.3.exe",
+  "notes": "Corrección del listado de apuntes – Versión 1.4.3\n\n• Se ha eliminado el límite de 500 apuntes en el Listado de apuntes. Ahora se muestran todos los registros de la parroquia.\n• Los totales (ingresos, gastos y balance) se calculan correctamente sobre todos los apuntes visibles.\n\nSe recomienda instalar esta actualización."
+}
